@@ -1,8 +1,8 @@
 # 📦 MainStoragee
 
-O **MainStoragee** é uma plataforma moderna e intuitiva para cadastrar, organizar e monitorar seus produtos com facilidade. Acompanhe valores, quantidades e o status do estoque em tempo real — ideal tanto para uso pessoal quanto profissional. 
+O **MainStoragee** é uma plataforma moderna e intuitiva para cadastrar, organizar e monitorar seus produtos com facilidade. Acompanhe valores, quantidades e o status do estoque em tempo real — ideal tanto para uso pessoal quanto profissional.
 
-Desenvolvido com tecnologias web de ponta, o **MainStoragee** oferece uma experiência rápida e eficiente, com persistência de dados via `localStorage`.
+Desenvolvido com HTML, CSS, JavaScript, React.js e TailwindCSS, o **MainStoragee** oferece uma experiência rápida e eficiente, com persistência de dados via `localStorage`.
 
 ## 🎯 Objetivo
 
@@ -20,9 +20,10 @@ Além disso, o projeto serve como prática de conceitos fundamentais de manipula
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-- React.js
-- TailwindCSS
+- React.js (via CDN)
+- TailwindCSS (via CDN)
 - LocalStorage
+- Font Awesome (para ícones)
 
 ## 🚀 Funcionalidades
 
