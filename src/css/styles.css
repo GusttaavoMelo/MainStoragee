@@ -1,0 +1,42 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+        
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #f8fafc;
+}
+
+.gradient-bg {
+    background: linear-gradient(135deg, #0b3d3b, #1d6047);
+}
+
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
+
+.status-in-stock {
+    background-color: #dbeafe;
+    color: #1d4ed8;
+}
+
+.status-low-stock {
+    background-color: #fef3c7;
+    color: #d97706;
+}
+
+.status-out-of-stock {
+    background-color: #fee2e2;
+    color: #dc2626;
+}
+
+.animate-pulse {
+    animation: pulse 2s cubic-bezier(0.4, 0, 0.6, 1) infinite;
+}
+
+@keyframes pulse {
+    0%, 100% {
+        opacity: 1;
+    }
+    50% {
+        opacity: 0.5;
+    }
+}
